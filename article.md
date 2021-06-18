@@ -77,9 +77,9 @@ be exclusively controlled by the new system. Providing the next step for the
 future generation of governance protocols. 
 
 This is a truly exciting development; it marks Algorand’s maturation into a
-community guided project. Where other coins let down the community algorand
+community guided project. Where other coins let down the community, algorand
 upholds them, providing them with a way to guide the project and express their
-desires for the coin. Algorand has earned its right to call its self one of the
+desires for the coin. Algorand has earned its right to call itself one of the
 very few “Comunity Coins”. What an achievement!
 
 #### References: 
